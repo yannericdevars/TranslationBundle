@@ -18,7 +18,7 @@ class TranslationService
     {
     }
     
-    public function getTranslation($lang = 'fr')
+    public function translation($lang = 'fr')
     {
         
         $translations = array();

@@ -1,0 +1,3 @@
+megalo_translation_homepage:
+    path:     /{lang}
+    defaults: { _controller: MegaloTranslationBundle:Default:index }

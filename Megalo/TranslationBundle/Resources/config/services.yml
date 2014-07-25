@@ -1,0 +1,6 @@
+parameters:
+    megalo_translation.class: Megalo\TranslationBundle\Services\TranslationService
+
+services:
+    megalo_translation:
+        class: %megalo_translation.class%
